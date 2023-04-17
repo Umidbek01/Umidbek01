@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Umidbek
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me umidbekWd@gmail.com
+- 💼 I’m Web Developer
+- 🌱 I’m currently doing projects using ReactJs
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me: umidbekWd@gmail.com
+- 📲 https://t.me/Tokhtanazarov
 
 <!---
 Umidbek01/Umidbek01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
