@@ -2,7 +2,7 @@
 - 💼 I’m Web Developer
 - 🌱 I’m currently doing projects using ReactJs
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: umidbekWd@gmail.com
+- 📫 How to reach me: tokhtanazarovumidbek@gmail.com
 - 📲 https://t.me/Tokhtanazarov
 
 <!---
